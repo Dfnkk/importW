@@ -1,0 +1,25 @@
+{
+  "name": "importw",
+  "version": "1.0.0",
+  "description": "a webpack package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dfnkk/importW.git"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dfnkk/importW/issues"
+  },
+  "homepage": "https://github.com/Dfnkk/importW#readme",
+  "dependencies": {
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "copy-webpack-plugin": "^4.5.2",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
